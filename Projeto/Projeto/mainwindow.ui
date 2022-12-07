@@ -135,8 +135,8 @@ color: rgb(0, 0, 0);</string>
     <property name="geometry">
      <rect>
       <x>1130</x>
-      <y>390</y>
-      <width>300</width>
+      <y>389</y>
+      <width>400</width>
       <height>300</height>
      </rect>
     </property>
@@ -190,7 +190,7 @@ color: rgb(0, 0, 0);</string>
      <x>0</x>
      <y>0</y>
      <width>1920</width>
-     <height>21</height>
+     <height>18</height>
     </rect>
    </property>
   </widget>

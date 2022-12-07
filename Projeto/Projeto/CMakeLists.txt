@@ -32,6 +32,8 @@ set(PROJECT_SOURCES
         pilha.cpp
         pilha.h
         pilha.ui
+        no.h
+        no.cpp
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
