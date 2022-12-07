@@ -14,7 +14,7 @@
    <string>MainWindow</string>
   </property>
   <property name="styleSheet">
-   <string notr="true">background-color: rgb(43, 158, 179);</string>
+   <string notr="true">background-color: rgb(148, 180, 159)</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QPushButton" name="btn_sair">
@@ -37,8 +37,8 @@
      <cursorShape>PointingHandCursor</cursorShape>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: rgb(133, 204, 156);
-color: rgb(255, 255, 255);</string>
+     <string notr="true">background-color: rgb(229, 227, 201);
+color: rgb(0, 0, 0);</string>
     </property>
     <property name="text">
      <string>X</string>
@@ -63,8 +63,8 @@ color: rgb(255, 255, 255);</string>
      <cursorShape>PointingHandCursor</cursorShape>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: rgb(133, 204, 156);
-color: rgb(255, 255, 255);</string>
+     <string notr="true">background-color: rgb(229, 227, 201);
+color: rgb(0, 0, 0);</string>
     </property>
     <property name="text">
      <string>LISTA SEQUENCIAL</string>
@@ -98,8 +98,8 @@ color: rgb(255, 255, 255);</string>
      <cursorShape>PointingHandCursor</cursorShape>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: rgb(133, 204, 156);
-color: rgb(255, 255, 255);</string>
+     <string notr="true">background-color: rgb(229, 227, 201);
+color: rgb(0, 0, 0);</string>
     </property>
     <property name="text">
      <string>LISTA ENCADEADA</string>
@@ -124,8 +124,8 @@ color: rgb(255, 255, 255);</string>
      <cursorShape>PointingHandCursor</cursorShape>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: rgb(133, 204, 156);
-color: rgb(255, 255, 255);</string>
+     <string notr="true">background-color: rgb(229, 227, 201);
+color: rgb(0, 0, 0);</string>
     </property>
     <property name="text">
      <string>PILHA</string>
@@ -150,8 +150,8 @@ color: rgb(255, 255, 255);</string>
      <cursorShape>PointingHandCursor</cursorShape>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: rgb(133, 204, 156);
-color: rgb(255, 255, 255);</string>
+     <string notr="true">background-color: rgb(229, 227, 201);
+color: rgb(0, 0, 0);</string>
     </property>
     <property name="text">
      <string>FILA</string>
@@ -176,8 +176,8 @@ color: rgb(255, 255, 255);</string>
      <cursorShape>PointingHandCursor</cursorShape>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: rgb(133, 204, 156);
-color: rgb(255, 255, 255);</string>
+     <string notr="true">background-color: rgb(229, 227, 201);
+color: rgb(0, 0, 0);</string>
     </property>
     <property name="text">
      <string>ÁRVORE</string>

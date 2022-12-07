@@ -23,9 +23,9 @@ public:
 private slots:
     void on_btn_listaSeq_clicked();
     void on_btn_listaEnc_clicked();
-    void on_btn_pilha_clicked();
     void on_btn_fila_clicked();
     void on_btn_arvore_clicked();
+    void on_btn_pilha_clicked();
 
 private:
     Ui::MainWindow *ui;
@@ -33,6 +33,6 @@ private:
     Fila *fila;
     ListaEnc *listaEnc;
     ListaSeq *listaSeq;
-    Pilha *pil;
+    Pilha *pilha;
 };
 #endif // MAINWINDOW_H

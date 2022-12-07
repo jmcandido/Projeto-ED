@@ -2,6 +2,7 @@
 #define LISTASEQ_H
 
 #include <QDialog>
+#include <QMessageBox>
 
 namespace Ui {
 class ListaSeq;
@@ -16,7 +17,10 @@ public:
     ~ListaSeq();
 
 private slots:
-    void on_btn_adicionarListaSeq_clicked();
+    void on_btn_adicionar_clicked();
+    void on_btn_remover_clicked();
+    void on_btn_reset_clicked();
+    void printListaSeq();
 
 private:
     Ui::ListaSeq *ui;

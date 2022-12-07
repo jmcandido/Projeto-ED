@@ -26,13 +26,11 @@ void MainWindow::on_btn_listaEnc_clicked()
     listaEnc->showFullScreen();
 }
 
-
 void MainWindow::on_btn_pilha_clicked()
 {
-    //pil = new Pilha(this);
-    //pil->showFullScreen();
+    pilha = new Pilha(this);
+    pilha->showFullScreen();
 }
-
 
 void MainWindow::on_btn_fila_clicked()
 {

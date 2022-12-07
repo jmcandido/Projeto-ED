@@ -29,6 +29,9 @@ set(PROJECT_SOURCES
         arvore.cpp
         arvore.h
         arvore.ui
+        pilha.cpp
+        pilha.h
+        pilha.ui
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
